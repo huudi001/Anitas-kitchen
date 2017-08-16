@@ -1,0 +1,151 @@
+#burger-container {
+  background-color: #F15A29;
+  position: sticky;
+  background-color: margin: 100px auto;
+  width: 80px;
+  float: left;
+}
+
+#buger {
+  cursor: pointer;
+  display: block;
+
+}
+
+#burger span {
+  background: #eee;
+  display: block;
+  ;
+  width: 50px;
+  height: 10px;
+  margin-bottom: 5px;
+  position: relative;
+  top: 0px;
+  transition: all ease-in-out 0.4s;
+}
+
+h4 {
+  color: #F15A29;
+}
+
+.header {
+  text-align: center;
+  background-image: url(../images/landing.jpg);
+  border-bottom-width: thin;
+  margin: 0px;
+}
+
+.header {
+  color: white;
+  margin-left: auto;
+}
+
+.ht {
+  height: 75px;
+  padding: 20px;
+  color: lightgrey;
+}
+
+.pt {
+  height: auto;
+  padding: 20px;
+  background-color: #F15A29;
+}
+
+#fastfood {
+  margin: 30px;
+}
+
+.secondbg {
+  background-image: url(../images/assets/backgrounds/foodsBg.jpg);
+}
+
+.btn {
+  background-color: #F15A29;
+}
+
+.btn:hover {
+  color: #80000;
+  /*text-decoration-color: #F15A29;*/
+}
+
+body {
+  margin: 20px;
+}
+
+#customers {
+  margin: 10px;
+  border: 20px 5px 5px 5px;
+  border-style: groove;
+  box-shadow: 5px 5px 5px;
+  padding: 10px 10px 30px 20px;
+}
+
+.pip {
+  text-align: center;
+}
+
+.happy {
+  text-align: center;
+  border-bottom: 5px;
+  border-color: black;
+}
+
+#subscribe {
+  float: right;
+}
+
+.footer {
+  text-align: center;
+  background-color: #F15A29;
+  color: white;
+  padding: 50px;
+}
+
+.footerlogo {
+  padding: 10px;
+}
+
+#padding {
+  padding-top: 40px;
+}
+
+h5 {
+  padding-top: 10px;
+}
+
+#food-box {
+  box-shadow: 10px 10px 5px #888888;
+  padding: 20px;
+}
+
+#fasttext {
+  padding-right: 5px 5px 5px 5px;
+}
+
+#drinks {
+  text-align: center;
+  padding: 20px 10px 30px 10px;
+}
+
+#drink-pic {
+  padding: 50px 20px 20px 20px;
+  box-shadow: 10px 10px 10px 10px;
+  10px;
+}
+
+#Bgfood {
+  padding: 40px 10px 40px 20px;
+  background-image: url(../images/assets/backgrounds/foodsBg.jpg);
+}
+
+.daily {
+  text-align: center;
+  color: white;
+  padding: 80px;
+  background-image: url(../images/assets/backgrounds/subscribe.jpg);
+}
+
+#abtmenu {
+  border-left: 1px solid silver;
+}
