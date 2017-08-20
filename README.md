@@ -1,6 +1,6 @@
 #AUTHOR:   khalid hassan
 
-#PROJECT NAME:    anit's kitchen
+#PROJECT NAME:   anita's restaurant page
 
 
 #TECHNOLOGIES USED:
@@ -15,3 +15,15 @@
 #PROJECT DESCRIPTION:
 
 A WEBSITE THAT ENTAILS ALOT OF STYLING ASPECTS WITH MINIMAL JAVASCRIPT INTERACTIVITY.
+
+#license
+
+MIT
+
+#known bugs:
+
+NONE
+
+#contributers:
+
+ONE
